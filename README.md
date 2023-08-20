@@ -42,7 +42,8 @@ Web development<br><br>
 
 <!-- 최근 프로젝트 -->
 ## 🔗 Latest Projects
-[1. WhenMeet](https://github.com/subin4591/team01.git)<br><br>
+[1. WhenMeet](https://github.com/subin4591/team01.git)<br>
+[2. Remember](https://github.com/subin4591/remember.git)<br><br>
 
 <!-- 사용할 수 있는 언어 및 툴 -->
 ## 🗒️ Languages and Tools
