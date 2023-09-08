@@ -1,7 +1,7 @@
 <!-- 주석 -->
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hello%20World!&fontSize=90)
 
 <!-- 연락 정보 -->
 ## 📫 Contact.
