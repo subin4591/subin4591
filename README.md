@@ -38,4 +38,5 @@
 <!-- 최근 프로젝트 -->
 ## 🌐 Project.
 - [WhenMeet - 일정 관리 사이트](https://github.com/subin4591/team01.git)<br>
-- [Remember - 독립운동가 정보 사이트](https://github.com/subin4591/remember.git)<br><br>
+- [Remember - 독립운동가 정보 사이트](https://github.com/subin4591/remember.git)<br>
+- [HappyMovie - 영화 정보 사이트](https://github.com/subin4591/happymovie.git)<br><br>
