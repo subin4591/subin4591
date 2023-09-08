@@ -1,12 +1,11 @@
 <!-- 주석 -->
 
-<!-- 나에 대한 설명 -->
-## 🌱 About me
-주니어 풀스택 웹 개발자, 황수빈<br><br>
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90)
 
 <!-- 연락 정보 -->
 ## 📫 Contact.
-Email: subin4591@gmail.com<br><br>
+- Email: subin4591@gmail.com<br><br>
 
 <!-- 사용할 수 있는 언어 및 툴 -->
 ## 🔧 Skill.
@@ -38,10 +37,5 @@ Email: subin4591@gmail.com<br><br>
 
 <!-- 최근 프로젝트 -->
 ## 🌐 Project.
-[1. WhenMeet](https://github.com/subin4591/team01.git)<br>
-[2. Remember](https://github.com/subin4591/remember.git)<br><br>
-
-<!-- 기타 (github 통계 및 사용 언어 그래프) -->
-## ℹ️ GitHub Info.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subin4591&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subin4591&layout=compact)
+- [WhenMeet - 일정 관리 사이트](https://github.com/subin4591/team01.git)<br>
+- [Remember - 독립운동가 정보 사이트](https://github.com/subin4591/remember.git)<br><br>
