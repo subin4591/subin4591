@@ -9,13 +9,13 @@
 
 <!-- 사용할 수 있는 언어 및 툴 -->
 ## 🔧 Skill.
-- Front-End: 
+- FrontEnd: 
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 
-- Back-End: 
+- BackEnd: 
 ![Static Badge](https://img.shields.io/badge/JAVA-%23F80000?logo=oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MyBatis-d40000)
