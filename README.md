@@ -1,7 +1,7 @@
 <!-- 주석 -->
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hello%20World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=90&desc=Hwang%20Subin&descAlign=74&descAlignY=27)
 
 <!-- 연락 정보 -->
 ## 📫 Contact.
