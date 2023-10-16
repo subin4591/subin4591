@@ -18,8 +18,6 @@
 - BackEnd: 
 ![Static Badge](https://img.shields.io/badge/JAVA-%23F80000?logo=oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MyBatis-d40000)
-![Static Badge](https://img.shields.io/badge/JSP%2FJSTL-%236DB33F)
 
 - Database: 
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
